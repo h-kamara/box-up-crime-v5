@@ -3,8 +3,16 @@ title: Box Up Crime
 subtitle: Rebuilding Misguided Dreams
 image: /img/1053353_791342051012496_5657706568267392356_o.jpg
 blurb:
-  heading: Mission Statement
-  text: Mission Statement
+  heading: Our Mission
+  text: >-
+    We are a social youth organisation operating out of the London borough
+    Barking and Dagenham.
+
+    We work with young people at risk of having their lives ruined by crime and
+    motivate them to rebuild and recapture their dreams and aspirations. We
+    believe that every young person is entitled to a bright future, inspired by
+    their hopes and dreams, regardless of their background. We are passionate
+    about getting thousands of young people out of gangs each year.
 intro:
   heading: Our Programmes
   text: >-
