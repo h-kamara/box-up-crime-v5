@@ -48,6 +48,10 @@
   background-color: var(--white);
 }
 
+.bg-pink{
+background-color: pink;
+}
+
 .bg-off-white {
   background-color: var(--off-white);
 }
@@ -71,6 +75,8 @@
 .bg-black {
   background-color: var(--black);
 }
+
+.bg-black-2{background-color: rgba(0,0,0,0.8)}
 
 .bg-fix-primary {
   padding: 0 var(--spacing-small);
