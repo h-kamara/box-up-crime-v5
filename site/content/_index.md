@@ -1,14 +1,10 @@
 ---
-title: Taff smells
-subtitle: Support sustainable farming while enjoying a cup
-image: /img/home-jumbotron.jpg
+title: Box Up Crime
+subtitle: Rebuilding Misguided Dreams
+image: /img/1053353_791342051012496_5657706568267392356_o.jpg
 blurb:
-  heading: Why Kaldi?
-  text: >-
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+  heading: Mission Statement
+  text: Mission Statement
 intro:
   heading: Our Programmes
   text: >-
