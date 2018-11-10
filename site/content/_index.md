@@ -16,24 +16,48 @@ blurb:
 intro:
   heading: Our Programmes
   text: >-
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone.
+    Box Up is keen to expand its presence within London, and is actively working
+    to set up new branches of the organisation in five new boroughs. By seeking
+    out similar local figures with an intimate knowledge of the youth and gang
+    dynamics in each borough, Box Up will create a wider reaching program that
+    interconnects around the city, and tackles the growing epidemic of teenage
+    murders.
 products:
-  - image: img/illustrations-coffee.svg
+  - image: /img/12523930_849409058539128_1461291079702598120_n.jpg
     text: >-
-      We sell green and roasted coffee beans that are sourced directly from
-      independent farmers and farm cooperatives. We’re proud to offer a variety
-      of coffee beans grown with great care for the environment and local
-      communities. Check our post or contact us directly for current
-      availability.
-  - image: /img/illustrations-coffee-gear.svg
+      MONDAY
+
+      KINGSLEY HALL
+
+      COMMUNITY SESSIONS
+
+
+      Based in Dagenham, these community engagement sessions provide training,
+      mentoring, discipline and motivation to young people age 13-20. The focus
+      is on encouraging the young people to take positive action in their lives.
+  - image: ''
     text: >-
-      We offer a small, but carefully curated selection of brewing gear and
-      tools for every taste and experience level. No matter if you roast your
-      own beans or just bought your first french press, you’ll find a gadget to
-      fall in love with in our shop.
+      THURSDAY
+
+      RIPPLE CENTRE
+
+      BOX UP 4 KIDS
+
+      Designed for younger kids age 4-12, these sessions are based in Barking,
+      providing a fun environment of exercise and activity. These are designed
+      as preventative interventions from the influence of crime and gangs within
+      the inner city.
+  - text: >+
+      SATURDAY
+
+      LAKESIDE GYM
+
+      ACADEMY SESSIONS
+
+      These focussed training sessions are aimed at the young people who are
+      keen to take their boxing training to the next level, This will lead into
+      a competitive squad that Box Up are currently developing.
+
 values:
   heading: Our values
   text: >-
