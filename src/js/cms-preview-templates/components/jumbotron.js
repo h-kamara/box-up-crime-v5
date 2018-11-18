@@ -23,3 +23,5 @@ export default class Jumbotron extends React.Component {
     </div>;
   }
 }
+
+<script src="../js/nav-bar-toggle.js"></script>

@@ -23,6 +23,9 @@
 .bottom--2 { bottom: -2rem; }
 .left--2   { left:   -2rem; }
 
+.nav-box-closed { right: -20rem;}
+.nav-box-open   { right:0       ;}
+
 
 .absolute--fill {
   top: 0;
@@ -58,6 +61,8 @@
     bottom: 0;
     left: 0;
   }
+  .nav-box-closed-ns { top:  -4rem; left: 0rem;          }
+  .nav-box-open-ns   { top:  0rem; left: 0rem;          }
 }
 
 @media (--breakpoint-medium) {
@@ -117,3 +122,5 @@
     left: 0;
   }
 }
+
+.closed var{right: -75rem; bottom: 0rem;}
