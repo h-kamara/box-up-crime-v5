@@ -1,5 +1,5 @@
 .h1 { height: var(--spacing-medium); }
-.h2 { height: 2rem; }
+.h2 { height: 2rem;}
 .h3 { height: 4rem; }
 .h4 { height: 8rem; }
 .h5 { height: 16rem; }
@@ -32,6 +32,7 @@
 @media (--breakpoint-not-small) {
   .h1-ns {  height: var(--spacing-medium); }
   .h2-ns {  height: 2rem; }
+  .h2-and-a-bit-ns {height: 3rem;}
   .h3-ns {  height: 4rem; }
   .h4-ns {  height: 8rem; }
   .h5-ns {  height: 16rem; }
