@@ -23,7 +23,7 @@ intro:
     interconnects around the city, and tackles the growing epidemic of teenage
     murders.
 products:
-  - image: /img/12523930_849409058539128_1461291079702598120_n.jpg
+  - image: /img/36465366_1454581294688565_5461820128326844416_n.jpg
     text: >-
       MONDAY
 
@@ -35,7 +35,7 @@ products:
       Based in Dagenham, these community engagement sessions provide training,
       mentoring, discipline and motivation to young people age 13-20. The focus
       is on encouraging the young people to take positive action in their lives.
-  - image: ''
+  - image: /img/36498718_1455782841235077_3495374617483149312_n.jpg
     text: >-
       THURSDAY
 
@@ -47,7 +47,8 @@ products:
       providing a fun environment of exercise and activity. These are designed
       as preventative interventions from the influence of crime and gangs within
       the inner city.
-  - text: >+
+  - image: /img/2332805592.jpg
+    text: >+
       SATURDAY
 
       LAKESIDE GYM
