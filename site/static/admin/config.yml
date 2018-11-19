@@ -81,14 +81,19 @@ collections: # A list of collections the CMS should be able to edit
               - {label: Text, name: text, widget: text}
               - {label: Image, name: imageUrl, widget: image}
 
-  - file: "sites/content/careers/_index.md"
-    name: "careers" # Used in routes, ie.: /admin/collections/:slug/edit
-          label: "Careers Page" # Used in the UI, ie.: "New Post"
-          folder: "site/content/careers" # The path to the folder where the documents are stored
-          create: true # Allow users to create new documents in this collection
-          fields: # The fields each document in this collection have
-            - {label: "Job Title", name: "title", widget: "string", required: true}
-            - {label: "Deadline", name: "deadline", widget: "datetime", required:true}
-            - {label: "Person Specification", name: "specification", widget: "text", required: true}
-            - {label: "Job Description", name: "image", widget: "job-description", required: true}
-            - {label: "Apply", name: "to-apply", widget: "markdown"}
+      - file: "site/content/careers/_index.md"
+        label: "Careers Page"
+        name: "careers"
+        folder: "site/content/careers"
+        create: true
+        fields:
+          - {label: Title, name: title, widget: string}
+          - label: Careers
+            name: careers
+            widget: list
+            fields:
+              - {label: Heading, name: job-title, widget: string}
+              - {label: Text, name: short-description, widget: text}
+              - {label: list, name: person-spec, widget: list}
+              - {label: text, name: job-description, widget: image}
+              - {label: text, name: how-to-apply, widget: text}
