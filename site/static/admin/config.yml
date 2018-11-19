@@ -92,8 +92,8 @@ collections: # A list of collections the CMS should be able to edit
             name: careers
             widget: list
             fields:
-              - {label: Heading, name: job-title, widget: string}
-              - {label: Text, name: short-description, widget: text}
-              - {label: list, name: person-spec, widget: list}
-              - {label: text, name: job-description, widget: image}
-              - {label: text, name: how-to-apply, widget: text}
+              - {label: job-title, name: job-title, widget: string}
+              - {label: short-description, name: short-description, widget: string}
+              - {label: person-spec, name: person-spec, widget: string}
+              - {label: job-description, name: job-description, widget: string}
+              - {label: how-to-apply, name: how-to-apply, widget: string}
