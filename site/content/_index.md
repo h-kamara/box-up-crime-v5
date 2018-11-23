@@ -66,5 +66,8 @@ values:
     of colonialism and mindless abuse of natural resources and human lives. We
     want to turn this around and return the coffee trade to the drink’s
     exhilarating, empowering and unifying nature.
+future:
+  heading: Our Future
+  text: We are looking to expand to Switzerland
 ---
 
