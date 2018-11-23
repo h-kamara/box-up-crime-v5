@@ -108,7 +108,7 @@ collections: # A list of collections the CMS should be able to edit
               - {label: Text, name: text, widget: text}
               - {label: Image, name: imageUrl, widget: image}
 
-      - file: "sit/content/box-up-tv/_index.md"
+      - file: "site/content/box-up-tv/_index.md"
         label: "Box Up TV"
         name: "boxuptv"
         fields:
