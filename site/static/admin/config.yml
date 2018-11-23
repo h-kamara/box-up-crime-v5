@@ -20,9 +20,9 @@ collections: # A list of collections the CMS should be able to edit
     folder: "site/content/careers" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     fields: # The fields each document in this collection have
-      - {label: "Job Title", name: "title", widget: "string", required: true}
-      - {label: "Deadline Date", name: "date", widget: "datetime", required: true}
-      - {label: "Short Description", name: "description", widget: "markdown", required: true}
+      - {label: "Job Title", name: "job-title", widget: "string", required: true}
+      - {label: "Deadline Date", name: "deadline-date", widget: "datetime", required: true}
+      - {label: "Short Description", name: "short-j-description", widget: "markdown", required: true}
       - {label: "Job Description", name: "j-description", widget: "markdown", required: true}
       - {label: "Person Specification", name: "p-specification", widget: "markdown", required: true}
 
@@ -102,3 +102,11 @@ collections: # A list of collections the CMS should be able to edit
               - {label: Heading, name: heading, widget: string}
               - {label: Text, name: text, widget: text}
               - {label: Image, name: imageUrl, widget: image}
+
+
+      - file: "site/content/box-up-tv/_index.md"
+        label: "Box Up TV"
+        name: "Box Up TV"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Image, name: image, widget: image}

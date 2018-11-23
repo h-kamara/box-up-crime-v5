@@ -1,14 +1,12 @@
 <section class="bg-off-white min-vh-100-ns">
 	<div class="ph3 mw7 center">
 
-		<h2 class="f2 b lh-title mb3">Our Careers</h1>
-
-<p> testing 123</p>
+		<h2 class="f2 b lh-title mb3">Careers</h1>
 
 		<div class="w-100 flex-ns mhn1-ns flex-wrap mb3">
 			{{ range first 12 (where .Data.Pages "Type" "careers") }}
 				<div class="ph1-ns w-50-ns flex">
-					{{ .Render "li" }}
+					{{ .Render "careers-li" }}
 				</div>
 			{{ end }}
 		</div>
