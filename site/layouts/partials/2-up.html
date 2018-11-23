@@ -7,13 +7,14 @@
       {{ range .products }}
       <div class="ph2-ns w-50-ns primary">
         <img src="{{.image}}" alt="" class="center db mb3 h4a-ns" style="width: 240px background-color: black">
+        <h3 class=" b primary">{{.Heading}}</h3>
         <p class="white">{{.text}}</p>
       </div>
       {{ end }}
     </div>
 
     <div class="tc">
-      <a href="/progammes" class="btn raise">See all programmes</a>
+      <a href="/programmes" class="btn raise">See all programmes</a>
     </div>
   </div>
 </div>
