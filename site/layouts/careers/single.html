@@ -1,14 +1,17 @@
 {{ define "main" }}
 
   <div class="mw6 center ph3 pv4">
-    <h1 class="f2 lh-title b mb3">{{.title}}</h1>
+    <h1 class="f2 lh-title b mb3">{{.jobtitle}}</h1>
     <div class="flex justify-between grey-3">
-      <p>Deadline: {{ .Date.Format "Mon, Jan 2, 2006" }}</p>
+      <p>Deadline: {{ .deadlinedate.Format "Mon, Jan 2, 2006" }}</p>
     </div>
     <div class="cms mw6">
-      <p class="em">{{ .Description }}</p>
+      <p class="em">{{ .shortjdescription }}</p>
       {{ if .Params.image }}<img src="{{ .Params.image }}" alt="{{ .Title }}" />{{ end }}
-      {{ .Content }}
+      <h3> Person Specification </h3>
+      {{ .pspecification}}
+      <h3> Job Description </h3>
+      {{ .jdescription }}
     </div>
   </div>
 {{ end }}
