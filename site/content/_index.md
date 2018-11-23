@@ -22,43 +22,13 @@ intro:
     dynamics in each borough, Box Up will create a wider reaching program that
     interconnects around the city, and tackles the growing epidemic of teenage
     murders.
-products:
-  - image: /img/36465366_1454581294688565_5461820128326844416_n.jpg
+programmes:
+  - heading: Monday Kingsley Hall Community Sessions
+    image: /img/12523930_849409058539128_1461291079702598120_n.jpg
     text: >-
-      MONDAY
-
-      KINGSLEY HALL
-
-      COMMUNITY SESSIONS
-
-
       Based in Dagenham, these community engagement sessions provide training,
       mentoring, discipline and motivation to young people age 13-20. The focus
       is on encouraging the young people to take positive action in their lives.
-  - image: /img/36498718_1455782841235077_3495374617483149312_n.jpg
-    text: >-
-      THURSDAY
-
-      RIPPLE CENTRE
-
-      BOX UP 4 KIDS
-
-      Designed for younger kids age 4-12, these sessions are based in Barking,
-      providing a fun environment of exercise and activity. These are designed
-      as preventative interventions from the influence of crime and gangs within
-      the inner city.
-  - image: /img/2332805592.jpg
-    text: >+
-      SATURDAY
-
-      LAKESIDE GYM
-
-      ACADEMY SESSIONS
-
-      These focussed training sessions are aimed at the young people who are
-      keen to take their boxing training to the next level, This will lead into
-      a competitive squad that Box Up are currently developing.
-
 values:
   heading: Our values
   text: >-
