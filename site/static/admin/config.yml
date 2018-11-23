@@ -20,11 +20,11 @@ collections: # A list of collections the CMS should be able to edit
     folder: "site/content/careers" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     fields: # The fields each document in this collection have
-      - {label: "Job Title", name: "job-title", widget: "string", required: true}
-      - {label: "Deadline Date", name: "deadline-date", widget: "datetime", required: true}
-      - {label: "Short Description", name: "short-j-description", widget: "markdown", required: true}
-      - {label: "Job Description", name: "j-description", widget: "markdown", required: true}
-      - {label: "Person Specification", name: "p-specification", widget: "markdown", required: true}
+      - {label: "Job Title", name: "jobtitle", widget: "string", required: true}
+      - {label: "Deadline Date", name: "deadlinedate", widget: "datetime", required: true}
+      - {label: "Short Description", name: "shortjdescription", widget: "markdown", required: true}
+      - {label: "Job Description", name: "jdescription", widget: "markdown", required: true}
+      - {label: "Person Specification", name: "pspecification", widget: "markdown", required: true}
 
   - name: "pages"
     label: "Pages"
