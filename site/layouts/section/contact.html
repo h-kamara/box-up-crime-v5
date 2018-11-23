@@ -1,24 +1,30 @@
 {{ define "main" }}
 
-<div class="ph3 bg-off-white">
-	<div class="center mw6 pv3">
+{{ partial "mini-jumbotron" (dict "imageUrl" "/img/20-oct.jpg") }}
 
-		<img src="{{ .Params.logo }}" alt="" class="db w4 center pv4">
+<section class="ph3 bg-dark bb b--primary">
+
+	<section class="center mw6 pv3 white ">
+
+		<h3 class="f4 b lh-title mb2 primary center tc pa0"> Contact Us </h3>
+
+		<img src="{{ .Params.logo }}" alt="" class="db w4 center pv4 pa0">
 
 		{{ .Content }}
 
-		<div class="mb3">
+		<section class="mb3 white">
 	        	{{ range .Params.contact_entries }}
-				<div>
+				<section>
 					<h4 class="f4 b lh-title mb2 primary">{{ .heading }}</h4>
 					<p>{{ .text }}</p>
-				</div>
+				</section>
 			{{ end }}
-		</div>
+		</section>
 
 		{{ partial "feedback" .}}
+	</section>
 
-	</div>
-</div>
+
+</section>
 <script src="/accordion.js"></script>
 {{ end }}

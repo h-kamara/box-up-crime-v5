@@ -94,6 +94,8 @@ background-color: pink;
 
 .bg-black-2{background-color: rgba(0,0,0,0.8)}
 
+.bg-black-4{background-color: rgba(0,0,0,0.4)}
+
 .bg-fix-primary {
   padding: 0 var(--spacing-small);
   & :first-child {
