@@ -59,10 +59,6 @@ products:
       keen to take their boxing training to the next level, This will lead into
       a competitive squad that Box Up are currently developing.
 
-  - image: /img/about-reinvest-profits.jpg
-    text: Testing adding a fourth
-  - image: /img/blog-flavor_wheel.jpg
-    text: and a fifth
 values:
   heading: Our values
   text: >-
