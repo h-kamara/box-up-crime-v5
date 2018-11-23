@@ -1,0 +1,15 @@
+{{ define "main" }}
+
+  <div class="mw6 center ph3 pv4">
+    <h1 class="f2 lh-title b mb3">{{.Job Title}}</h1>
+    <div class="flex justify-between grey-3">
+      <p>Deadline: {{ .Deadline Date }} minutes</p>
+    </div>
+    <div class="cms mw6">
+      <p>{{ .Short Description }}</p>
+      {{ if .Params.image }}<img src="{{ .Params.image }}" alt="{{ .Title }}" />{{ end }}
+      <p>{{ .Person Specification }}
+      {{ .Job Description      }}
+    </div>
+  </div>
+{{ end }}
