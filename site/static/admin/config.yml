@@ -112,4 +112,4 @@ collections: # A list of collections the CMS should be able to edit
         label: "Box Up TV"
         name: "boxuptv"
         fields:
-          - {label: Title, name: title, widget: string
+          - {label: Title, name: title, widget: string}
