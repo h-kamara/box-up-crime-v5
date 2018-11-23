@@ -25,6 +25,7 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Short Description", name: "description", widget: "markdown", required: true}
       - {label: "Job Description", name: "j-description", widget: "markdown", required: true}
       - {label: "Person Specification", name: "p-specification", widget: "markdown", required: true}
+
   - name: "pages"
     label: "Pages"
     files:
