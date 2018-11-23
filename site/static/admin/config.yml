@@ -109,8 +109,8 @@ collections: # A list of collections the CMS should be able to edit
         name: "box_up_tv"
         fields:
             - {label: Heading, name: heading, widget: string}
-            label: Box Up TV
-            name: box_up_tv
-            widget: list
-            fields:
+            - label: Box Up TV
+              name: box_up_tv
+              widget: list
+              fields:
                   - {label: Heading, name: heading, widget: string}
