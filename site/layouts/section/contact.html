@@ -1,8 +1,6 @@
 {{ define "main" }}
 
-{{	partial "logo" }}
-
-{{ partial "mini-jumbotron" (dict "imageUrl" "/img/20-oct.jpg") }}
+{{ partial "mini-jumbotron" (dict "imageUrl") }}
 
 <section class="ph3 bg-dark bb b--primary">
 
@@ -26,6 +24,7 @@
 		{{ partial "feedback" .}}
 	</section>
 
+{{	partial "logo" }}
 
 </section>
 <script src="/accordion.js"></script>
