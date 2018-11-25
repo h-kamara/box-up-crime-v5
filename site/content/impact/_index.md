@@ -56,24 +56,18 @@ main:
     alt: A green cup of a coffee on a wooden table
     image: /img/products-grid2.jpg
   image3:
-    alt: Coffee beans
-    image: /img/products-grid1.jpg
+    alt: ''
+    image: ''
 testimonials:
-  - author: Elisabeth Kaurismäki
+  - author: 'Theresa May, UK Prime Minister'
     quote: >-
-      The first time I tried Kaldi’s coffee, I couldn’t even believe that was
-      the same thing I’ve been drinking every morning.
-  - author: Philipp Trommler
-    quote: >-
-      Kaldi is the place to go if you want the best quality coffee. I love their
-      stance on empowering farmers and transparency.
-full_image: /img/products-full-width.jpg
+      We would like to congratulate you on the important work you do with young
+      people. Your commitment to improving their life chances is very
+      impressive.
+full_image: /img/capture.jpg
 pricing:
-  heading: Monthly subscriptions
-  description: >-
-    We make it easy to make great coffee a part of your life. Choose one of our
-    monthly subscription plans to receive great coffee at your doorstep each
-    month. Contact us about more details and payment info.
+  heading: Our Impact
+  description: We're proud of the work we've achieved leading to the below results
   plans:
     - description: young people we have reached
       items:
