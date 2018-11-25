@@ -1,5 +1,5 @@
 ---
-title: Box Up Crime
+title: Home
 subtitle: Rebuilding Misguided Dreams
 image: /img/1053353_791342051012496_5657706568267392356_o.jpg
 logo: /img/boxupcrime-website-01.png
