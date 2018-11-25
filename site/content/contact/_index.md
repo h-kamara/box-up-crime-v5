@@ -1,17 +1,13 @@
 ---
 title: Contact Us
 logo: /img/boxupcrime-website-01.png
-imageUrl: /img/36465366_1454581294688565_5461820128326844416_n.jpg
+image: /img/36465366_1454581294688565_5461820128326844416_n.jpg
 contact_entries:
   - heading: Head Office
     text: |-
       59 Grosvenor Road, Dagenham, Essex, RM8 1NL
 
-
-
       0208 517 4446
-
-
 
       info@boxupcrime.org
   - heading: Box Up Barking and Dagenham
