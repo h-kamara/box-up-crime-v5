@@ -10,6 +10,10 @@
   {{ end }}
 </div>
 
+<!-- Image grid -->
+{{ partial "image-grid" . }}
+{{ end }}
+
 <div class="mw7 center ph3 pt4">
 
   {{ range $index, $element := .Params.values }}
@@ -33,9 +37,7 @@
   </div>
 </div>
 
-<!-- Image grid -->
-{{ partial "image-grid" . }}
-{{ end }}
+
 
 <!-- Full-width image -->
 
