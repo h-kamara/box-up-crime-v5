@@ -1,6 +1,6 @@
 ---
 title: Impact
-image: /img/products-jumbotron.jpg
+image: /img/12523930_849409058539128_1461291079702598120_n.jpg
 heading: What we offer
 description: >-
   Kaldi is the ultimate spot for coffee lovers who want to learn about their
@@ -75,26 +75,20 @@ pricing:
     monthly subscription plans to receive great coffee at your doorstep each
     month. Contact us about more details and payment info.
   plans:
-    - description: Perfect for the drinker who likes to enjoy 1-2 cups per day.
+    - description: young people we have reached
       items:
-        - 3 lbs of coffee per month
-        - Green or roasted beans"
-        - One or two varieties of beans"
-      plan: Small
-      price: '50'
-    - description: 'Great for avid drinkers, java-nsoving couples and bigger crowds'
+        - ''
+      plan: 2000+ Young People Reached
+      price: '2,000+'
+    - description: Drop in Crime
       items:
-        - 6 lbs of coffee per month
-        - Green or roasted beans
-        - Up to 4 different varieties of beans
-      plan: Big
-      price: '80'
-    - description: Want a few tiny batches from different varieties? Try our custom plan
+        - ''
+      plan: 25% Drop in Crime
+      price: 25%
+    - description: People through our doors each week
       items:
-        - Whatever you need
-        - Green or roasted beans
-        - Unlimited varieties
-      plan: Custom
-      price: '?'
+        - ''
+      plan: ''
+      price: 600+
 ---
 
