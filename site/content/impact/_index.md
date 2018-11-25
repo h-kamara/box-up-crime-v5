@@ -78,12 +78,12 @@ pricing:
     - description: young people we have reached
       items:
         - ''
-      plan: 2000+ Young People Reached
+      plan: ''
       price: '2,000+'
     - description: Drop in Crime
       items:
         - ''
-      plan: 25% Drop in Crime
+      plan: ''
       price: 25%
     - description: People through our doors each week
       items:
