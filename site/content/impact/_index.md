@@ -19,6 +19,8 @@ intro:
       text: >-
         This is Joe Bloggs. He joined Box Up Crime in 2015 after a difficult
         childhood and is now one of our youth leaders. 
+    - name: Steve
+      text: Steve
   heading: Our People
   description: 'Our impact is hitting a lot of young people from difficult backgrounds. '
 main:
