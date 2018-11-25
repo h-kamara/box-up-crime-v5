@@ -1,5 +1,5 @@
 ---
-title: Contact
+title: Contact Us
 logo: /img/boxupcrime-website-01.png
 imageUrl: /img/36465366_1454581294688565_5461820128326844416_n.jpg
 contact_entries:
