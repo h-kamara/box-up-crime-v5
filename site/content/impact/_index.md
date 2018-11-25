@@ -19,17 +19,13 @@ intro:
       text: >-
         This is Joe Bloggs. He joined Box Up Crime in 2015 after a difficult
         childhood and is now one of our youth leaders. 
-    - name: Steve
-      text: Steve
   heading: Our People
   description: 'Our impact is hitting a lot of young people from difficult backgrounds. '
 main:
-  heading: Great coffee with no compromises
-  description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
+  heading: ''
+  description: >-
+    Nothing that we do would be possible without your continued support. From
+    all of us at Box Up Crime, thank you!
   image1:
     alt: A close-up of a paper filter filled with ground coffee
     image: /img/products-grid3.jpg
