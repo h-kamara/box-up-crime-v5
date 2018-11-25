@@ -2,10 +2,18 @@
 
 {{ partial "mini-jumbotron" (dict "imageUrl" .Params.image "title" .Title) }}
 
+{{ partial "table" .Params.pricing }}
+
+<div class="pb4">
+  {{ range .Params.testimonials }}
+    {{ partial "blockquote" . }}
+  {{ end }}
+</div>
+
 <div class="mw7 center ph3 pt4">
 
   {{ range $index, $element := .Params.values }}
-    {{ if modBool $index 2 }}
+    {{ if modBool $index 2 }}-
       {{ partial "media-block" $element }}
     {{ else }}
       {{ partial "media-block-reverse" $element }}
@@ -18,7 +26,7 @@
 
 
 {{ with .Params.main }}
-<div class="mw7 center">
+<div class="mw7 center bb b--primary">
   <div class="mw6 ph3 mb3">
     <h3 class="f3 b lh-title mb2">{{ .heading }}</h3>
     <p>{{ .description }}</p>
@@ -29,16 +37,8 @@
 {{ partial "image-grid" . }}
 {{ end }}
 
-<div class="pb4">
-  {{ range .Params.testimonials }}
-    {{ partial "blockquote" . }}
-  {{ end }}
-</div>
-
 <!-- Full-width image -->
-<img src="{{ .Params.full_image }}" alt="" class="db w-100">
-
-{{ partial "table" .Params.pricing }}
+<img src="{{ .Params.full_image }}" alt="" class="db w-100 bb b--primary">
 
 
 {{ end }}
