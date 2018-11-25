@@ -9,13 +9,49 @@
 				<ul class="mb3">
 					<li><a href="/" class="link">Home</a></li>
 					<li><a href="/contact" class="link">Locations</a></li>
-					<li><a href="/contact" class="link">Feedback</a></li>
+					<li id="myBtn">Feedback</li>	<!-- Trigger/Open The Modal -->
 					<li><a href="/box-up-tv" class="link">Box Up TV</a></li>
 					<li>Mobile Gym</li>
 					<li><a href="/impact" class="link">Our Impact</a></li>
 					<li><a href="/support" class="link">Support Us</a></li>
 					<li><a href="/post" class="link">News</a><li>
 					<li><a href="/vacancies" class="link">Careers</a></li>
+
+
+					<section id="myModal" class="modal"> <!-- The Modal -->
+					  <section class="modal-content dark"><!-- Modal content -->
+					    <span class="close">&times;</span>
+							<h3 class="f4 primary">Feedback</h3>
+							<p> We appreciate your feedback on our sessions. If there is anything of particular concern, please feel free to contact the head office. </p>
+							<form name="feedback" method="POST" data-netlify="true">
+								<h5 class="dark b pr2" for="fname">Name</h5>
+								<input type="text" id="fname" name="firstname" placeholder="Your first name..">
+						    <input type="text" id="lname" name="lastname" placeholder="Your last name.."><br><br>
+
+								<h5 class="dark b pr2" for="email">Email</h5>
+								<input type="email" id="email" name="email" placeholder="Your email address..">
+
+								<h5 class="dark b pr2" for="locationvisited">Which Box Up Location did you visit?</h5>
+								<input type="radio" name="location1" value="Barking"> Barking and Dagenham
+								<input type="radio" name="location2" value="Lakeside"> Lakeside
+								<input type="radio" name="location3" value="Switzerland"> Switzerland<br><br>
+
+								<h5 class="dark b pr2" for="email">Which date did you visit on?</h5>
+								<input type="date" id="date" name="date" placeholder="Date visited"><br><br>
+
+								<h5 class="dark b pr2" for="staffmet">Which Staff did you meet at Box Up?</h5>
+								<input type="checkbox" class="pr4" name="staff1" value="stephen-addison"> Stephen Addison
+								<input type="checkbox" name="staff2" value="mike-tyson"> Mike Tyson
+								<input type="checkbox" name="staff3" value="antony-joshua"> Antony Joshua<br><br>
+
+								<h5 class="dark b pr2" for="lname">Comments</h5>
+								<input type="text" id="comments" name="comments" placeholder="Any comments?"><br><br>
+
+								<button type="submit">Submit</button>
+							</form>
+					  </section>
+
+					</section>
 				</ul>
 			</section>
 
@@ -32,7 +68,7 @@
 			</section>
 
 			<section>
-					<h3 class="f4 b lh-title mb1 primary">Contact Us</h3>
+					<h3 class="f4 b lh-title mb1 primary"><a href="/contact" class="link">Contact Us</a></h3>
 					<ul class="mb3">
 						<li> 0208 517 4446 </li>
 						<li><a href="mailto:info@boxupcrime.org"> info@boxupcrime.org </a></li>
@@ -63,6 +99,7 @@
 
 <script src="/app.js"> </script>
 <script src="/nav.js"> </script>
+<script src="/modal.js"> </script>
 
 </body>
 

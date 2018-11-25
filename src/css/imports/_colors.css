@@ -36,6 +36,24 @@
   color: var(--black);
 }
 
+.dark{
+  color: rgb(0,0,0);
+}
+
+.less-dark{
+  color: rgba(0,0,0,0.9);
+}
+
+.less-less-dark{
+  color: rgba(0,0,0,0.85);
+}
+
+.less-less-less-dark{
+  color: rgba(0,0,0,0.8)
+}
+
+
+
 .bg-none {
   background-color: none;
 }

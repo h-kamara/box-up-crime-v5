@@ -28,7 +28,8 @@ export default {
     app: ["./js/app"],
     cms: ["./js/cms"],
     nav: ["./js/nav"],
-    accordion: ["./js/accordion"]
+    accordion: ["./js/accordion"],
+    modal: ["./js/modal"]
   },
   output: {
     path: path.join(__dirname, "dist"),
