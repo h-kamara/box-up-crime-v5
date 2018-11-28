@@ -13,3 +13,86 @@
     box-shadow: inset 0 -4px 0 var(--primary);
   }
 }
+
+
+#navbar{
+  overflow: hidden;
+  background-color: black;
+  text-align: center;
+  z-index: 999;
+}
+
+/* Navbar links */
+#navbar a {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px;
+  text-decoration: none;
+}
+
+/* Page content */
+.content1 {
+  padding: 0;
+}
+
+/* The sticky class is added to the navbar with JS when it reaches its scroll position */
+.sticky {
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+
+/* Add some top padding to the page content to prevent sudden quick movement (as the navigation bar gets a new position at the top of the page (position:fixed and top:0) */
+.sticky + .content1 {
+  padding-top: 72px;
+}
+
+.videoWrapper {
+  width: 75%;
+  margin: auto;
+	position: relative;
+	padding-bottom: 56.25%; /* 16:9 */
+	padding-top: 25px;
+	height: 0;
+}
+
+@media (max-width: 40em){
+
+.videoWrapper{
+  width: 90%;
+}
+
+/* #navbar{
+  display:none;
+} */
+
+}
+
+@media (max-width: 850px){
+
+  .navigation-box{position: fixed;top: 3.5rem; height: 60vh;width: 100%; right: 0vh;background-color: rgba(0,0,0,.65); padding-top: 1rem; padding-left: 1rem; color: white; transition: all 1s ease;}
+
+  .navigation-box.closed{position: fixed;top: 3.5rem;right: -40rem;height: 70vh;width: 15%;background-color: rgba(0,0,0,.65); padding-top: 1rem; padding-left: 1rem; color: white;}
+
+  .navigation-box.open{position: fixed;top: 100px;left: 0;height: 100vh;width: 100%;background-color: rgba(0,0,0,.65); padding-top: 1rem; padding-left: 1rem; color: white;}
+
+#navbar li{
+  display:block;
+}
+
+#navbar a{
+  float: none;
+}
+
+
+}
+
+.videoWrapper iframe {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+}

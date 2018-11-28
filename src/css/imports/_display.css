@@ -38,6 +38,10 @@
   }
 }
 
+@media (min-width: 850px){
+  .dn-850 {display:none;}
+}
+
 @media (--breakpoint-medium) {
   .dn-m {              display: none; }
   .di-m {              display: inline; }

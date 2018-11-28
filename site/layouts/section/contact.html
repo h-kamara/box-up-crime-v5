@@ -2,6 +2,8 @@
 
 {{ partial "mini-jumbotron" (dict "imageUrl" .Params.image) }}
 
+{{ partial "nav-bar" }}
+
 <section class="ph3 bg-dark bb b--primary">
 
 	<section class="center mw6 pv3 white ">
@@ -17,6 +19,8 @@
 				<section>
 					<h4 class="f4 b lh-title mb2 primary">{{ .heading }}</h4>
 					<p>{{ .text }}</p>
+					<p>{{ .contactnumber}}
+					<p>{{ .openingtimes}}</p>
 				</section>
 			{{ end }}
 		</section>

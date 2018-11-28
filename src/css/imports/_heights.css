@@ -51,6 +51,7 @@
   .min-vh-100-ns { min-height: 100vh; }
   .h-auto-ns { height: auto; }
   .h-inherit-ns { height: inherit; }
+  .jumbotron-ns {height: calc(100vh - 3rem);}
 }
 
 @media (--breakpoint-medium) {

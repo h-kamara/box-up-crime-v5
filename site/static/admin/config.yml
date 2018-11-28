@@ -60,6 +60,12 @@ collections: # A list of collections the CMS should be able to edit
               - label: Text
                 name: text
                 widget: text
+              - label: Contact Number
+                name: contactnumber
+                widget: text
+              - label: Opening Times
+                name: openingtimes
+                widget: text
       - file: "site/content/impact/_index.md"
         label: "Our Impact"
         name: "Impact"
