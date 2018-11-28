@@ -1,6 +1,6 @@
 ---
 title: Impact
-image: /img/12523930_849409058539128_1461291079702598120_n.jpg
+image: /img/36465366_1454581294688565_5461820128326844416_n.jpg
 heading: What we offer
 description: >-
   Kaldi is the ultimate spot for coffee lovers who want to learn about their
@@ -9,7 +9,7 @@ description: >-
   anyone.
 intro:
   blurbs:
-    - image: /img/36498718_1455782841235077_3495374617483149312_n.jpg
+    - image: /img/12523930_849409058539128_1461291079702598120_n.jpg
       name: Jane Doe
       text: >-
         This is Jane Doe. She used to get in trouble at school a lot but thanks
