@@ -4,10 +4,9 @@
 
 {{ partial "nav-bar" }}
 
-
 <div class="mw7 center ph3 pt4">
 
-  {{ range $index, $element := .Params.programmes }}
+  {{ range $index, $element := .Params.support }}
     {{ if modBool $index 2 }}
       {{ partial "media-block" $element }}
     {{ else }}
