@@ -100,8 +100,8 @@ collections: # A list of collections the CMS should be able to edit
           - {label: Image, name: image, widget: image}
           - {label: Heading, name: heading, widget: string}
           - {label: Blurb, name: blurb, widget: text}
-          - label: Programmes
-            name: programmes
+          - label: Way to Support
+            name: ways-to-support
             widget: list
             fields:
               - {label: Heading, name: heading, widget: string}
@@ -113,5 +113,9 @@ collections: # A list of collections the CMS should be able to edit
         name: "Box Up TV"
         fields:
           - {label: Title, name: title, widget: string}
-          - {label: Heading, name: heading, widget: string}
-          - {label: Blurb, name: blurb, widget: text}
+          - label: Box Up TV
+            name: Box Up TV
+            widget: list
+            fields:
+              - {label: Heading, name: heading, widget: string}
+              - {label: Blurb, name: blurb, widget: text}
