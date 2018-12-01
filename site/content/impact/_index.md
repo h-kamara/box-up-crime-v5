@@ -53,21 +53,12 @@ full_image: /img/capture.jpg
 pricing:
   heading: Our Impact
   description: We're proud of the work we've achieved leading to the below results
-  plans:
-    - description: young people we have reached
-      items:
-        - ''
-      plan: ''
-      price: '2,000+'
-    - description: Drop in Crime
-      items:
-        - ''
-      plan: ''
-      price: 25%
-    - description: People through our doors each week
-      items:
-        - ''
-      plan: ''
-      price: 600+
+  metrics:
+    - measure: 2000+
+      metric: young people reached
+    - measure: 25%
+      metric: Drop in Crime
+    - measure: 600+
+      metric: Young people worked with on a weekly basis
 ---
 
