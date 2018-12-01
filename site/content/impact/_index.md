@@ -50,15 +50,17 @@ testimonials:
       This place is the bomb! Their coaches make sure you have the proper form
       and are always pushing you to go further.
 full_image: /img/capture.jpg
-pricing:
+metrics:
   heading: Our Impact
-  description: We're proud of the work we've achieved leading to the below results
+  description: >-
+    We're proud of the work that we do but we're more proud of the impact that
+    it has caused. Over the year, we have observed:
   metrics:
     - measure: 2000+
       metric: young people reached
     - measure: 25%
-      metric: Drop in Crime
+      metric: drop in crime
     - measure: 600+
-      metric: Young people worked with on a weekly basis
+      metric: young people through our doors on a weekly basis
 ---
 
