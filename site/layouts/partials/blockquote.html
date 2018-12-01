@@ -6,6 +6,7 @@
 	<p class="br pr2 pr2-ns bw2-ns tr-ns tr ml7-ns mr3">{{ .description }}</p>
 
 	<blockquote class="bg-grey-1 primary pa3 mb3 br1 b mw6 center">
+		  {{ range .testimonials }}
 		<p class="f4 mb0">“{{ .quote }}”</p>
 		<cite class="tr db grey-3">{{ .author }}</cite>
 	</blockquote>
