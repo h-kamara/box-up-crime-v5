@@ -52,5 +52,15 @@ testimonials:
 full_image: /img/capture.jpg
 metrics:
   heading: Our Impact
+  description: >-
+    We're proud of the work that we do but we're more proud of the impact that
+    it has caused. Over the year, we have observed:
+  metrics:
+    - measure: 2000+
+      metric: young people reached
+    - measure: 25%
+      metric: drop in crime
+    - measure: 600+
+      metric: young people through our doors on a weekly basis
 ---
 
