@@ -7,8 +7,8 @@
 {{ partial "table" .Params.metrics }}
 
 <div class="pb4">
-  <h2 class="f2 b lh-title mb3 primary bl pl2 pl2-ns bw2-ns">{{.heading.Testimonials}}</h2>
-  <p class="mw6 white bl pl2 pl2-ns bw2-ns">{{.description.Testimonials}}</p>
+  <h2 class="f2 b lh-title mb3 primary bl pl2 pl2-ns bw2-ns">{{.heading.Params.Testimonials}}</h2>
+  <p class="mw6 white bl pl2 pl2-ns bw2-ns">{{.description.Params.Testimonials}}</p>
   {{ range .Params.testimonials }}
     {{ partial "blockquote" . }}
   {{ end }}
