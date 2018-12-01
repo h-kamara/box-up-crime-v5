@@ -42,6 +42,7 @@
 .pt5 { padding-top: var(--spacing-extra-large); }
 .pt6 { padding-top: var(--spacing-extra-extra-large); }
 .pt7 { padding-top: var(--spacing-extra-extra-extra-large); }
+.pt8 { padding-top: var(--spacing-extra-extra-extra-extra-large); }
 
 .pv0 {
   padding-top: var(--spacing-none);
@@ -277,6 +278,7 @@
   .pt5-ns  {  padding-top: var(--spacing-extra-large); }
   .pt6-ns {  padding-top: var(--spacing-extra-extra-large); }
   .pt7-ns { padding-top: var(--spacing-extra-extra-extra-large); }
+  .pt8-ns { padding-top: var(--spacing-extra-extra-extra-extra-large); }
 
   .pv0-ns {
     padding-top: var(--spacing-none);
@@ -734,6 +736,7 @@
   .pt5-l  {  padding-top: var(--spacing-extra-large); }
   .pt6-l {  padding-top: var(--spacing-extra-extra-large); }
   .pt7-l { padding-top: var(--spacing-extra-extra-extra-large); }
+  .pt8-l { padding-top: var(--spacing-extra-extra-extra-extra-large); }
 
   .pv0-l {
     padding-top: var(--spacing-none);
