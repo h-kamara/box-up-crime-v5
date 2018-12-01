@@ -1,6 +1,6 @@
 ---
 title: Impact
-image: /img/36465366_1454581294688565_5461820128326844416_n.jpg
+image: /img/capture2.jpg
 heading: What we offer
 description: >-
   Kaldi is the ultimate spot for coffee lovers who want to learn about their
