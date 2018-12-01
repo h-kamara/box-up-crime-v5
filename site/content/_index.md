@@ -25,7 +25,7 @@ intro:
     murders.
 programmes:
   - heading: Monday Kingsley Hall Community Sessions
-    image: /img/12523930_849409058539128_1461291079702598120_n.jpg
+    image: /img/capture.jpg
     text: >-
       Based in Dagenham, these community engagement sessions provide training,
       mentoring, discipline and motivation to young people age 13-20. The focus

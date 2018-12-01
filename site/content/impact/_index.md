@@ -1,6 +1,6 @@
 ---
 title: Impact
-image: /img/36465366_1454581294688565_5461820128326844416_n.jpg
+image: /img/capture2.jpg
 heading: What we offer
 description: >-
   Kaldi is the ultimate spot for coffee lovers who want to learn about their
@@ -22,7 +22,7 @@ intro:
   heading: Our People
   description: 'Our impact is hitting a lot of young people from difficult backgrounds. '
 main:
-  heading: ''
+  heading: A huge thank you!
   description: >-
     Nothing that we do would be possible without your continued support. From
     all of us at Box Up Crime, thank you!
@@ -41,6 +41,14 @@ testimonials:
       We would like to congratulate you on the important work you do with young
       people. Your commitment to improving their life chances is very
       impressive.
+  - author: John A. Miller
+    quote: >-
+      The coaches and athletes made me feel like I was part of the box by
+      helping and cheering me on and that was the case for everyone
+  - author: Ian Gibson
+    quote: >-
+      This place is the bomb! Their coaches make sure you have the proper form
+      and are always pushing you to go further.
 full_image: /img/capture.jpg
 pricing:
   heading: Our Impact
