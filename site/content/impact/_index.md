@@ -22,7 +22,7 @@ intro:
   heading: Our People
   description: 'Our impact is hitting a lot of young people from difficult backgrounds. '
 main:
-  heading: ''
+  heading: A huge thank you!
   description: >-
     Nothing that we do would be possible without your continued support. From
     all of us at Box Up Crime, thank you!
