@@ -13,9 +13,7 @@ contact_entries:
   - heading: Box Up Switzerland
     text: TBC
   - heading: Upcoming Locations
-    text: |-
-      * Box Up City of London
-      * Box Up Tower Hamlets
-      * Box Up Stratford
+    text: |
+      Box Up City of London
 ---
 We are always passionate about speaking about Box Up Crime. Whether you're interested in getting involved, you're a parent, a potential sponsor or you're from the Government, we're keen to hear from you.
