@@ -1,7 +1,7 @@
 ---
 title: Contact Us
 logo: /img/boxupcrime-website-01.png
-image: /img/dkfaezsx0aijznx-1-.jpg
+image: /img/capture8.jpg
 contact_entries:
   - contactnumber: 'Tel: 0208 517 4446'
     heading: Head Office
