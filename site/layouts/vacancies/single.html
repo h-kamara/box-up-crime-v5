@@ -8,7 +8,7 @@
     <p>Deadline: {{ .Date.Format "Mon, Jan 2, 2006" }}</p>
     </div>
     <div class="cms mw6">
-      <p>{{ .description }}</p>
+      <p>{{ .Description }}</p>
       {{ if .Params.image }}<img src="{{ .Params.image }}" alt="{{ .Title }}" />{{ end }}
       {{ .Content }}
     </div>
