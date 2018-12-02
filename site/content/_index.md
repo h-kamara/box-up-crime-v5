@@ -52,6 +52,11 @@ values:
     exhilarating, empowering and unifying nature.
 future:
   heading: Our Future
-  text: We are looking to expand to Switzerland
+  text: >-
+    We have been taking part in a number of initiatives outside of the UK. For
+    example, we visited Ghana last year and are delighted that another community
+    was able to benefit from the Box Up Crime Experience. We have also been able
+    to expand to Switzerland and are looking to set up a gym there full time
+    within the next few months.
 ---
 
