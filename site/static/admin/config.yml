@@ -21,10 +21,10 @@ collections: # A list of collections the CMS should be able to edit
     create: true # Allow users to create new documents in this collection
     fields: # The fields each document in this collection have
       - {label: "Title", name: "title", widget: "string"}
-      - {label: "Deadline Date", name: "DeadlineDate", widget: "datetime"}
+      - {label: "Deadline Date", name: "deadlinedate", widget: "datetime"}
       - {label: "Description", name: "description", widget: "markdown"}
-      - {label: "Job Description", name: "JobDescription", widget: "markdown"}
-      - {label: "Person Specification", name: "PersonSpecification", widget: "markdown"}
+      - {label: "Job Description", name: "jobdescription", widget: "markdown"}
+      - {label: "Person Specification", name: "personSpecification", widget: "markdown"}
       - {label: "Image", name: "image", widget: "image", required: false}
   - name: "pages"
     label: "Pages"
