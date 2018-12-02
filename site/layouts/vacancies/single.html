@@ -8,13 +8,13 @@
     <p>Deadline: {{ .Date.Format "Mon, Jan 2, 2006" }}</p>
     </div>
     <div class="cms mw6">
-      <p>{{ .Description }}</p>
+      <p>{{ .description }}</p>
       {{ if .Params.image }}<img src="{{ .Params.image }}" alt="{{ .Title }}" />{{ end }}
       <h3> Person Specification </h3>
-      {{ .PersonSpecification}}
+      {{ .personspecification}}
       <h3> Job Description </h3>
-      {{ .JobDescription }}
-      {{ .Application }}
+      {{ .jobdescription }}
+      {{ .application }}
     </div>
   </div>
 {{ end }}
