@@ -24,7 +24,7 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Deadline Date", name: "DeadlineDate", widget: "datetime"}
       - {label: "Description", name: "description", widget: "text"}
       - {label: "Job Description", name: "JobDescription", widget: "text"}
-      - {label: "PersonSpecification, name: "PersonSpecification", widget: "text"}
+      - {label: "PersonSpecification", name: "PersonSpecification", widget: "text"}
       - {label: "Image", name: "image", widget: "image", required: false}
   - name: "pages"
     label: "Pages"
