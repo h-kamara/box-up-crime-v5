@@ -15,16 +15,16 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Intro Blurb", name: "description", widget: "text"}
       - {label: "Image", name: "image", widget: "image", required: false}
       - {label: "Body", name: "body", widget: "markdown"}
-  - name: "vacancies" # Used in routes, ie.: /admin/collections/:slug/edit
-    label: "vacancies" # Used in the UI, ie.: "New Post"
+  - name: "Vacancies" # Used in routes, ie.: /admin/collections/:slug/edit
+    label: "Vacancies" # Used in the UI, ie.: "New Post"
     folder: "site/content/vacancies" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     fields: # The fields each document in this collection have
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Deadline Date", name: "DeadlineDate", widget: "datetime"}
-      - {label: "Description", name: "description", widget: "text"}
-      - {label: "Job Description", name: "JobDescription", widget: "text"}
-      - {label: "PersonSpecification", name: "PersonSpecification", widget: "text"}
+      - {label: "Description", name: "description", widget: "markdown"}
+      - {label: "Job Description", name: "JobDescription", widget: "markdown"}
+      - {label: "Person Specification", name: "PersonSpecification", widget: "markdown"}
       - {label: "Image", name: "image", widget: "image", required: false}
   - name: "pages"
     label: "Pages"
