@@ -1,8 +1,8 @@
 {{ define "main" }}
 
-{{ partial "mini-jumbotron" (dict "imageUrl" .Params.image "title" .Title) }}
-
 {{ partial "nav-bar" }}
+
+{{ partial "mini-jumbotron" (dict "imageUrl" .Params.image "title" .Title) }}
 
 {{ partial "table" .Params.metrics }}
 
