@@ -5,18 +5,9 @@ heading: Support Us
 blurb: >-
   Without the help of a number of people, the work that we do at Box Up Crime
   would just not be possible. 
-programmes:
-  - heading: Volunteer
-    imageUrl: /img/capture.jpg
-    text: >-
-      We're constantly looking for keep volunteers to support our programmes. No
-      matter what your level of commitment, you'll enjoy the experience. 
-  - heading: Donate
-    imageUrl: /img/about-single-origin.jpg
-    text: >-
-      Donations in the past have helped us to open a number of new Box Up
-      locations reaching as far afield as Switzerland. Having more gyms helps us
-      to increase the number of people that we steer away from crime. 
-  - {}
+support:
+  - heading: Test
+    imageUrl: /img/1053353_791342051012496_5657706568267392356_o.jpg
+    text: Test
 ---
 
