@@ -112,8 +112,8 @@ collections: # A list of collections the CMS should be able to edit
           - {label: Image, name: image, widget: image}
           - {label: Heading, name: heading, widget: string}
           - {label: Blurb, name: blurb, widget: text}
-          - label: Way to Support
-            name: ways-to-support
+          - label: "Ways To Support"
+            name: support
             widget: list
             fields:
               - {label: Heading, name: heading, widget: string}
