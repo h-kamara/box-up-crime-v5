@@ -9,12 +9,7 @@
     </div>
     <div class="cms mw6">
       <p>{{ .description }}</p>
-      {{ if .Params.image }}<img src="{{ .Params.image }}" alt="{{ .Title }}" />{{ end }}
-      <h3> Person Specification </h3>
-      {{ .personspecification}}
-      <h3> Job Description </h3>
-      {{ .jobdescription }}
-      {{ .application }}
+
     </div>
   </div>
 {{ end }}
