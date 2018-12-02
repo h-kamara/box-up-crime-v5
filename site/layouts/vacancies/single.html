@@ -1,0 +1,20 @@
+{{ define "main" }}
+
+{{ partial "nav-bar" }}
+
+  <div class="mw6 center ph3 pv4">
+    <h1 class="f2 lh-title b mb3">{{.Title}}</h1>
+    <div class="flex justify-between grey-3">
+      <p>Deadline: {{ .DeadlineDate.Format "Mon, Jan 2, 2006" }}</p>
+    </div>
+    <div class="cms mw6">
+      <p>{{ .Description }}</p>
+      {{ if .Params.image }}<img src="{{ .Params.image }}" alt="{{ .Title }}" />{{ end }}
+      <h3> Person Specification </h3>
+      {{ .PersonSpecification}}
+      <h3> Job Description </h3>
+      {{ .JobDescription }}
+      {{ .Application }}
+    </div>
+  </div>
+{{ end }}
