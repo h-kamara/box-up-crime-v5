@@ -1,8 +1,9 @@
 ---
 title: Test
-DeadlineDate: 2018-12-02T16:32:39.358Z
+date: 2018-12-03T12:20:05.242Z
 description: Test
-JobDescription: Test
-PersonSpecification: Test
+jobdescription: Test
+personspecification: Test
+application: 'To apply, please contact Box Up Crime.'
 ---
 
