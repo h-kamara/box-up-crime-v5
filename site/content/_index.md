@@ -24,7 +24,7 @@ intro:
     interconnects around the city, and tackles the growing epidemic of teenage
     murders.
 programmes:
-  - heading: Monday Kingsley Hall Community Sessions
+  - heading: Monday - Kingsley Hall - Community Sessions
     image: /img/capture.jpg
     text: >-
       Based in Dagenham, these community engagement sessions provide training,
