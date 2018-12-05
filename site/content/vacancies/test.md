@@ -1,5 +1,5 @@
 ---
-title: Boxing Instructor
+title: Boxing Instructors
 date: 2018-12-31T12:20:05.242Z
 description: We require an enthusiastic boxing instructor to join the Box Up Crime team.
 jobdescription: |-
