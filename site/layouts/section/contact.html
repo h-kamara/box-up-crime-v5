@@ -1,14 +1,12 @@
 {{ define "main" }}
 
-{{ partial "mini-jumbotron" (dict "imageUrl" .Params.image) }}
+{{ partial "jumbotron-with-title" (dict "imageUrl" .Params.image "title" .Title) }}
 
 {{ partial "nav-bar" }}
 
 <section class="ph3 bg-dark bb b--primary">
 
 	<section class="center mw6 pv3 white ">
-
-		<h3 class="f4 b lh-title mb2 primary center tc pa0"> Contact Us </h3>
 
 		<img src="{{ .Params.logo }}" alt="" class="db w4 center pv4 pa0">
 

@@ -1,12 +1,10 @@
 {{ define "main" }}
 
-{{ partial "mini-jumbotron" (dict "imageUrl" "/img/36498718_1455782841235077_3495374617483149312_n.jpg" "title" "Latest stories") }}
+{{ partial "jumbotron-with-title" (dict "imageUrl" "/img/36498718_1455782841235077_3495374617483149312_n.jpg" "title" "Latest stories") }}
 
 {{ partial "nav-bar" }}
 
 <section class="center bg-dark pv4 bb b--primary">
-
-<h2 class="f2 b lh-title mb2 w-50-l tc primary center"> Latest news </h2>
 
   <ul class="flex-ns flex-wrap mhn1-ns pa3">
       {{ range (.Paginator 4).Pages.ByPublishDate.Reverse }}
