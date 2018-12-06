@@ -30,11 +30,11 @@ main:
     alt: Stephen Addison - Founder of Box Up Crime
     image: /img/stephen-addison.jpg
   image2:
-    alt: Boris Johnson demonstrating his support for Box Up Crime
-    image: /img/2332805592.jpg
+    alt: ''
+    image: ''
   image3:
-    alt: Young person engaged in a Box Up Crime session
-    image: /img/capture8.jpg
+    alt: ''
+    image: ''
 testimonials:
   - author: 'Theresa May, UK Prime Minister'
     quote: >-
