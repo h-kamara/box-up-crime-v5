@@ -6,41 +6,34 @@ description: >-
   next step.
 
 
-  **Job Description**
+  ****
 
+
+  ****
+jobdescription: |-
+
+
+  **Job Description**
 
   Your role will include:
 
-
   1. _Planning and set up for sessions_
-
   2. _Development of young people's skills_
-
   3. _Mentoring our young people_
-
   4. _Attending competitions_
-
-
+personspecification: |-
   **Person Specification**
-
 
   Essential
 
-
   1. _Enthusiasm and passion for boxing_
-
 
   Desirable
 
-
   1. _Have access to a car_
-
   2. _Have a Level 3 in Sports and Coaching or above_
 
-
   If you wish to apply, please send an email to Stephen.Addison@boxupcrime.org
-jobdescription: NA
-personspecification: NA
 application: NA
 ---
 
