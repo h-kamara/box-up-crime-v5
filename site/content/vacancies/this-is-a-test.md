@@ -7,9 +7,6 @@ description: >-
 
 
   ****
-
-
-  ****
 jobdescription: |-
 
 
