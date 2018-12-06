@@ -1,12 +1,10 @@
 {{ define "main" }}
 
-{{ partial "jumbotron-with-title" (dict "imageUrl" "/img/NitDu44w.jpg" "Title" "Current Vacancies") }}
+{{ partial "jumbotron-with-title" (dict "imageUrl" "/img/NitDu44w.jpg" "title" "Current Vacancies") }}
 
 {{ partial "nav-bar" }}
 
 <section class="center bg-dark pv4 bb b--primary">
-
-<h2 class="f2 b lh-title mb2 w-50-l tc primary center"> Current Vacancies </h2>
 
   <ul class="flex-ns flex-wrap mhn1-ns pa3">
       {{ range (.Paginator 4).Pages.ByPublishDate.Reverse }}
