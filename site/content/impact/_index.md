@@ -27,23 +27,26 @@ main:
     Nothing that we do would be possible without your continued support. From
     all of us at Box Up Crime, thank you!
   image1:
-    alt: A close-up of a paper filter filled with ground coffee
-    image: /img/products-grid3.jpg
+    alt: Stephen Addison - Founder of Box Up Crime
+    image: /img/stephen-addison.jpg
   image2:
-    alt: A green cup of a coffee on a wooden table
-    image: /img/products-grid2.jpg
+    alt: ''
+    image: ''
   image3:
     alt: ''
     image: ''
 testimonials:
-  - quote: >-
+  - author: 'Theresa May, UK Prime Minister'
+    quote: >-
       We would like to congratulate you on the important work you do with young
       people. Your commitment to improving their life chances is very
       impressive.
-  - quote: >-
+  - author: John A. Miller
+    quote: >-
       The coaches and athletes made me feel like I was part of the box by
       helping and cheering me on and that was the case for everyone
-  - quote: >-
+  - author: Ian Gibson
+    quote: >-
       This place is the bomb! Their coaches make sure you have the proper form
       and are always pushing you to go further.
 full_image: /img/capture.jpg
