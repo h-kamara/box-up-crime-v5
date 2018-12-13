@@ -44,11 +44,6 @@
   width: 100%;
 }
 
-/* Add some top padding to the page content to prevent sudden quick movement (as the navigation bar gets a new position at the top of the page (position:fixed and top:0) */
-.sticky + .content1 {
-  padding-top: 72px;
-}
-
 .videoWrapper {
   width: 75%;
   margin: auto;
@@ -88,6 +83,10 @@
   padding: 0.25rem;
 }
 
+/* Add some top padding to the page content to prevent sudden quick movement (as the navigation bar gets a new position at the top of the page (position:fixed and top:0) */
+.sticky + .content1 {
+  padding-top: 72px;
+}
 
 }
 
