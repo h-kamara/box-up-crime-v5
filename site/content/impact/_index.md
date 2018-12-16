@@ -9,12 +9,12 @@ description: >-
   anyone.
 intro:
   blurbs:
-    - image: /img/12523930_849409058539128_1461291079702598120_n.jpg
+    - image: /img/capture1.jpg
       name: Jane Doe
       text: >-
-        This is Jane Doe. She used to get in trouble at school a lot but thanks
-        to Box Up Crime, she's on her way to the next Olympic Games. 
-    - image: /img/12523930_849409058539128_1461291079702598120_n.jpg
+        This is Josh Doe. She used to get in trouble at school a lot but thanks
+        to Box Up Crime, he's on his way to the next Olympic Games. 
+    - image: /img/2xlvwjnw.jpeg
       name: Joe Bloggs
       text: >-
         This is Joe Bloggs. He joined Box Up Crime in 2015 after a difficult
