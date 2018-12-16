@@ -22,10 +22,28 @@ intro:
   heading: Our People
   description: 'Our impact is hitting a lot of young people from difficult backgrounds. '
 main:
-  heading: A huge thank you!
+  heading: Thank You From Stephen Addison
   description: >-
-    Nothing that we do would be possible without your continued support. From
-    all of us at Box Up Crime, thank you!
+    As Founder of Box Up Crime, I would just like to say a massive thank you to
+    all of our supporters over the past few years. None of what we have achieved
+    would have been possible without the support of investors, government,
+    parents but most importantly, our young people! 
+
+
+    Our future is looking bright. We have plans to expand to cover at least 16
+    boroughs by the end of the year and have plans to go to Ghana and
+    Switzerland too. The purpose of this is to reach as many people as possible
+    with Box Up Crime. 
+
+
+    Without your continued support, none of this would be possible.
+
+
+    Stephen Addison
+
+    Founder
+
+    Box Up Crime
   image1:
     alt: Stephen Addison - Founder of Box Up Crime
     image: /img/stephen-addison.jpg
