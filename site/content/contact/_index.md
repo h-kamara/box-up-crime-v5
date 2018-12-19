@@ -15,7 +15,7 @@ contact_entries:
     text: TBC
   - heading: Upcoming Locations
     text: |
-      Box Up City of London
+      Box Up Ghana
 ---
 We are always passionate about speaking about Box Up Crime. Whether you're interested in getting involved, you're a parent, a potential sponsor or you're from the Government, we're keen to hear from you. 
 
