@@ -1,10 +1,12 @@
 # Hugo template for Netlify CMS with Netlify Identity
 
-This is a small business template built with [Victor Hugo](https://github.com/netlify/victor-hugo) and [Netlify CMS](https://github.com/netlify/netlify-cms), designed and developed by [Darin Dimitroff](http://www.darindimitroff.com/), [spacefarm.digital](https://www.spacefarm.digital).
+URL: https://jovial-shockley-bb9c96.netlify.com/
+CMS: https://jovial-shockley-bb9c96.netlify.com/admin
+GitHub repository: https://github.com/h-kamara/box-up-crime-v2
 
 ## Getting started
 
-Use our deploy button to get your own copy of the repository. 
+Use our deploy button to get your own copy of the repository.
 
 [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/netlify-templates/one-click-hugo-cms&stack=cms)
 
