@@ -1,18 +1,18 @@
 {{ define "main" }}
 
-{{ partial "jumbotron-with-title" (dict "imageUrl" .Params.image "title" .Title) }}
-
 {{ partial "nav-bar" }}
 
-<section class="ph3 bg-dark bb b--primary">
+{{ partial "jumbotron-with-title" (dict "imageUrl" .Params.image "title" .Title) }}
 
-	<section class="center mw6 pv3 white ">
+<section class="ph3 bg-white bb b--primary">
+
+	<section class="center mw6 pv3 black ">
 
 		<img src="{{ .Params.logo }}" alt="" class="db w4 center pv4 pa0">
 
 		{{ .Content }}
 
-		<section class="mb3 white">
+		<section class="mb3 black">
 	        	{{ range .Params.contact_entries }}
 				<section>
 					<h4 class="f4 b lh-title mb2 primary">{{ .heading }}</h4>

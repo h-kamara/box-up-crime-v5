@@ -1,10 +1,10 @@
 {{ define "main" }}
 
-{{ partial "jumbotron-with-title" (dict "imageUrl" .Params.image "title" .Title) }}
-
 {{ partial "nav-bar" }}
 
-<div class="mw7 center ph3 pt4">
+{{ partial "jumbotron-with-title" (dict "imageUrl" .Params.image "title" .Title) }}
+
+<div class=" center ph3 pt4 bb bt br bl bw5 b--grey-1">
 
   {{ range $index, $element := .Params.programmes }}
     {{ if modBool $index 2 }}
